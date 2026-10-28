@@ -1,8 +1,7 @@
-/ /image-resizer 301
-/image-resizer /image-resizer/index.html 200
-/image-compressor /image-compressor/index.html 200
-/image-converter /image-converter/index.html 200
-/photo-editor /photo-editor/index.html 200
-/image-merger /image-merger/index.html 200
-/signature-resizer /image-resizer 301
-/* /index.html 200
+/                       /image-resizer               301
+/signature-resizer      /image-resizer               301
+/image-resizer          /image-resizer/index.html    200
+/image-compressor       /image-compressor/index.html 200
+/image-converter        /image-converter/index.html  200
+/photo-editor           /photo-editor/index.html     200
+/image-merger           /image-merger/index.html     200
